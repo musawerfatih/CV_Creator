@@ -7,7 +7,7 @@ This Python program is used to create a quick cv (resume) for you, all you need 
       
 # ScreenShots
 
-![image](https://user-images.githubusercontent.com/63827449/185015274-d77cd539-037b-4748-8fa7-b940c6ed4d50.png)
+![image](https://user-images.githubusercontent.com/63827449/185017559-eec2aefc-f1b3-4bf2-ba25-25bccab382f9.png)
 
 ![image](https://user-images.githubusercontent.com/63827449/185016701-59e8d74c-11da-4bb2-80f3-3d41e1563ded.png)
 
