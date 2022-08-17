@@ -1,7 +1,6 @@
 from tkinter import *
 from tkinter import IntVar
 from PIL import Image, ImageDraw, ImageFont
-from PIL import Image
 
 root = Tk()
 root.geometry('1066x580')
