@@ -174,10 +174,10 @@ cv_button = Button(LangFrame, text='Get CV as PDF', command=get_as_pdf, bg='#448
 cv_button.grid(row=1, column=2, padx=(10,0), pady=(10,10), sticky=W)
 
 clear_button = Button(LangFrame, text='  Clear Data ', command=clear_data, bg='gray', fg='white', relief=RIDGE)
-clear_button.grid(row=2, column=0, padx=(90,0), pady=(5,0), sticky=W)
+clear_button.grid(row=2, column=0, padx=(90,0), pady=10, sticky=W)
 
 quit_button = Button(LangFrame, text='Exit', command=root.quit, bg='red', fg='white', relief=RIDGE)
-quit_button.grid(row=2, column=1, padx=(10,5), pady=5, sticky=W)
+quit_button.grid(row=2, column=1, padx=(10,5), pady=10, sticky=W)
 
 
 # Inside Frames in Details Frames
